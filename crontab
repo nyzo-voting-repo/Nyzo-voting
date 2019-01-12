@@ -1,0 +1,2 @@
+# change path if needed
+*/30 * * * * /root/run.sh
