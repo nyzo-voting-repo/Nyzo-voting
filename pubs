@@ -1,0 +1,2 @@
+In this file you will need to place public id's of verifiers you want to vote for, the run.sh script will randomly pick one.
+One line = one public identifier (example: 8af00c177df14ab1-4ff5860464fbc94c-80a767b9642a09a2-c46d4ddf5dcf30b0)
