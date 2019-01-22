@@ -3,30 +3,30 @@
 ./kill.sh
 rm kill.sh
 echo "echo 'killing previous processes'" >> kill.sh
-sudo java -jar /home/ubuntu/nyzoVerifier/build/libs/nyzoVerifier-1.0.jar co.nyzo.verifier.scripts.NewVerifierVoteOverrideRequestScript  YOUR-INCYCLE-VERIFIER-PRIVATE-KEY $1 & echo "kill $!" >> kill.sh &
-sudo java -jar /home/ubuntu/nyzoVerifier/build/libs/nyzoVerifier-1.0.jar co.nyzo.verifier.scripts.NewVerifierVoteOverrideRequestScript  YOUR-INCYCLE-VERIFIER-PRIVATE-KEY $1 & echo "kill $!" >> kill.sh &
-sudo java -jar /home/ubuntu/nyzoVerifier/build/libs/nyzoVerifier-1.0.jar co.nyzo.verifier.scripts.NewVerifierVoteOverrideRequestScript  YOUR-INCYCLE-VERIFIER-PRIVATE-KEY $1 & echo "kill $!" >> kill.sh &
-sudo java -jar /home/ubuntu/nyzoVerifier/build/libs/nyzoVerifier-1.0.jar co.nyzo.verifier.scripts.NewVerifierVoteOverrideRequestScript  YOUR-INCYCLE-VERIFIER-PRIVATE-KEY $1 & echo "kill $!" >> kill.sh &
-sudo java -jar /home/ubuntu/nyzoVerifier/build/libs/nyzoVerifier-1.0.jar co.nyzo.verifier.scripts.NewVerifierVoteOverrideRequestScript  YOUR-INCYCLE-VERIFIER-PRIVATE-KEY $1 & echo "kill $!" >> kill.sh &
-sudo java -jar /home/ubuntu/nyzoVerifier/build/libs/nyzoVerifier-1.0.jar co.nyzo.verifier.scripts.NewVerifierVoteOverrideRequestScript  YOUR-INCYCLE-VERIFIER-PRIVATE-KEY $1 & echo "kill $!" >> kill.sh &
-sudo java -jar /home/ubuntu/nyzoVerifier/build/libs/nyzoVerifier-1.0.jar co.nyzo.verifier.scripts.NewVerifierVoteOverrideRequestScript  YOUR-INCYCLE-VERIFIER-PRIVATE-KEY $1 & echo "kill $!" >> kill.sh &
-sudo java -jar /home/ubuntu/nyzoVerifier/build/libs/nyzoVerifier-1.0.jar co.nyzo.verifier.scripts.NewVerifierVoteOverrideRequestScript  YOUR-INCYCLE-VERIFIER-PRIVATE-KEY $1 & echo "kill $!" >> kill.sh &
-sudo java -jar /home/ubuntu/nyzoVerifier/build/libs/nyzoVerifier-1.0.jar co.nyzo.verifier.scripts.NewVerifierVoteOverrideRequestScript  YOUR-INCYCLE-VERIFIER-PRIVATE-KEY $1 & echo "kill $!" >> kill.sh &
-sudo java -jar /home/ubuntu/nyzoVerifier/build/libs/nyzoVerifier-1.0.jar co.nyzo.verifier.scripts.NewVerifierVoteOverrideRequestScript  YOUR-INCYCLE-VERIFIER-PRIVATE-KEY $1 & echo "kill $!" >> kill.sh &
-sudo java -jar /home/ubuntu/nyzoVerifier/build/libs/nyzoVerifier-1.0.jar co.nyzo.verifier.scripts.NewVerifierVoteOverrideRequestScript  YOUR-INCYCLE-VERIFIER-PRIVATE-KEY $1 & echo "kill $!" >> kill.sh &
-sudo java -jar /home/ubuntu/nyzoVerifier/build/libs/nyzoVerifier-1.0.jar co.nyzo.verifier.scripts.NewVerifierVoteOverrideRequestScript  YOUR-INCYCLE-VERIFIER-PRIVATE-KEY $1 & echo "kill $!" >> kill.sh &
-sudo java -jar /home/ubuntu/nyzoVerifier/build/libs/nyzoVerifier-1.0.jar co.nyzo.verifier.scripts.NewVerifierVoteOverrideRequestScript  YOUR-INCYCLE-VERIFIER-PRIVATE-KEY $1 & echo "kill $!" >> kill.sh &
-sudo java -jar /home/ubuntu/nyzoVerifier/build/libs/nyzoVerifier-1.0.jar co.nyzo.verifier.scripts.NewVerifierVoteOverrideRequestScript  YOUR-INCYCLE-VERIFIER-PRIVATE-KEY $1 & echo "kill $!" >> kill.sh &
-sudo java -jar /home/ubuntu/nyzoVerifier/build/libs/nyzoVerifier-1.0.jar co.nyzo.verifier.scripts.NewVerifierVoteOverrideRequestScript  YOUR-INCYCLE-VERIFIER-PRIVATE-KEY $1 & echo "kill $!" >> kill.sh &
-sudo java -jar /home/ubuntu/nyzoVerifier/build/libs/nyzoVerifier-1.0.jar co.nyzo.verifier.scripts.NewVerifierVoteOverrideRequestScript  YOUR-INCYCLE-VERIFIER-PRIVATE-KEY $1 & echo "kill $!" >> kill.sh &
-sudo java -jar /home/ubuntu/nyzoVerifier/build/libs/nyzoVerifier-1.0.jar co.nyzo.verifier.scripts.NewVerifierVoteOverrideRequestScript  YOUR-INCYCLE-VERIFIER-PRIVATE-KEY $1 & echo "kill $!" >> kill.sh &
-sudo java -jar /home/ubuntu/nyzoVerifier/build/libs/nyzoVerifier-1.0.jar co.nyzo.verifier.scripts.NewVerifierVoteOverrideRequestScript  YOUR-INCYCLE-VERIFIER-PRIVATE-KEY $1 & echo "kill $!" >> kill.sh &
-sudo java -jar /home/ubuntu/nyzoVerifier/build/libs/nyzoVerifier-1.0.jar co.nyzo.verifier.scripts.NewVerifierVoteOverrideRequestScript  YOUR-INCYCLE-VERIFIER-PRIVATE-KEY $1 & echo "kill $!" >> kill.sh &
-sudo java -jar /home/ubuntu/nyzoVerifier/build/libs/nyzoVerifier-1.0.jar co.nyzo.verifier.scripts.NewVerifierVoteOverrideRequestScript  YOUR-INCYCLE-VERIFIER-PRIVATE-KEY $1 & echo "kill $!" >> kill.sh &
-sudo java -jar /home/ubuntu/nyzoVerifier/build/libs/nyzoVerifier-1.0.jar co.nyzo.verifier.scripts.NewVerifierVoteOverrideRequestScript  YOUR-INCYCLE-VERIFIER-PRIVATE-KEY $1 & echo "kill $!" >> kill.sh &
-sudo java -jar /home/ubuntu/nyzoVerifier/build/libs/nyzoVerifier-1.0.jar co.nyzo.verifier.scripts.NewVerifierVoteOverrideRequestScript  YOUR-INCYCLE-VERIFIER-PRIVATE-KEY $1 & echo "kill $!" >> kill.sh &
-sudo java -jar /home/ubuntu/nyzoVerifier/build/libs/nyzoVerifier-1.0.jar co.nyzo.verifier.scripts.NewVerifierVoteOverrideRequestScript  YOUR-INCYCLE-VERIFIER-PRIVATE-KEY $1 & echo "kill $!" >> kill.sh &
-sudo java -jar /home/ubuntu/nyzoVerifier/build/libs/nyzoVerifier-1.0.jar co.nyzo.verifier.scripts.NewVerifierVoteOverrideRequestScript  YOUR-INCYCLE-VERIFIER-PRIVATE-KEY $1 & echo "kill $!" >> kill.sh &
+sudo java -jar /home/ubuntu/nyzoVerifier/build/libs/nyzoVerifier-1.0.jar co.nyzo.verifier.scripts.NewVerifierVoteOverrideRequestScript  YOUR-INCYCLE-VERIFIER-PRIVATE-KEY $1 & echo "sudo kill $!" >> kill.sh &
+sudo java -jar /home/ubuntu/nyzoVerifier/build/libs/nyzoVerifier-1.0.jar co.nyzo.verifier.scripts.NewVerifierVoteOverrideRequestScript  YOUR-INCYCLE-VERIFIER-PRIVATE-KEY $1 & echo "sudo kill $!" >> kill.sh &
+sudo java -jar /home/ubuntu/nyzoVerifier/build/libs/nyzoVerifier-1.0.jar co.nyzo.verifier.scripts.NewVerifierVoteOverrideRequestScript  YOUR-INCYCLE-VERIFIER-PRIVATE-KEY $1 & echo "sudo kill $!" >> kill.sh &
+sudo java -jar /home/ubuntu/nyzoVerifier/build/libs/nyzoVerifier-1.0.jar co.nyzo.verifier.scripts.NewVerifierVoteOverrideRequestScript  YOUR-INCYCLE-VERIFIER-PRIVATE-KEY $1 & echo "sudo kill $!" >> kill.sh &
+sudo java -jar /home/ubuntu/nyzoVerifier/build/libs/nyzoVerifier-1.0.jar co.nyzo.verifier.scripts.NewVerifierVoteOverrideRequestScript  YOUR-INCYCLE-VERIFIER-PRIVATE-KEY $1 & echo "sudo kill $!" >> kill.sh &
+sudo java -jar /home/ubuntu/nyzoVerifier/build/libs/nyzoVerifier-1.0.jar co.nyzo.verifier.scripts.NewVerifierVoteOverrideRequestScript  YOUR-INCYCLE-VERIFIER-PRIVATE-KEY $1 & echo "sudo kill $!" >> kill.sh &
+sudo java -jar /home/ubuntu/nyzoVerifier/build/libs/nyzoVerifier-1.0.jar co.nyzo.verifier.scripts.NewVerifierVoteOverrideRequestScript  YOUR-INCYCLE-VERIFIER-PRIVATE-KEY $1 & echo "sudo kill $!" >> kill.sh &
+sudo java -jar /home/ubuntu/nyzoVerifier/build/libs/nyzoVerifier-1.0.jar co.nyzo.verifier.scripts.NewVerifierVoteOverrideRequestScript  YOUR-INCYCLE-VERIFIER-PRIVATE-KEY $1 & echo "sudo kill $!" >> kill.sh &
+sudo java -jar /home/ubuntu/nyzoVerifier/build/libs/nyzoVerifier-1.0.jar co.nyzo.verifier.scripts.NewVerifierVoteOverrideRequestScript  YOUR-INCYCLE-VERIFIER-PRIVATE-KEY $1 & echo "sudo kill $!" >> kill.sh &
+sudo java -jar /home/ubuntu/nyzoVerifier/build/libs/nyzoVerifier-1.0.jar co.nyzo.verifier.scripts.NewVerifierVoteOverrideRequestScript  YOUR-INCYCLE-VERIFIER-PRIVATE-KEY $1 & echo "sudo kill $!" >> kill.sh &
+sudo java -jar /home/ubuntu/nyzoVerifier/build/libs/nyzoVerifier-1.0.jar co.nyzo.verifier.scripts.NewVerifierVoteOverrideRequestScript  YOUR-INCYCLE-VERIFIER-PRIVATE-KEY $1 & echo "sudo kill $!" >> kill.sh &
+sudo java -jar /home/ubuntu/nyzoVerifier/build/libs/nyzoVerifier-1.0.jar co.nyzo.verifier.scripts.NewVerifierVoteOverrideRequestScript  YOUR-INCYCLE-VERIFIER-PRIVATE-KEY $1 & echo "sudo kill $!" >> kill.sh &
+sudo java -jar /home/ubuntu/nyzoVerifier/build/libs/nyzoVerifier-1.0.jar co.nyzo.verifier.scripts.NewVerifierVoteOverrideRequestScript  YOUR-INCYCLE-VERIFIER-PRIVATE-KEY $1 & echo "sudo kill $!" >> kill.sh &
+sudo java -jar /home/ubuntu/nyzoVerifier/build/libs/nyzoVerifier-1.0.jar co.nyzo.verifier.scripts.NewVerifierVoteOverrideRequestScript  YOUR-INCYCLE-VERIFIER-PRIVATE-KEY $1 & echo "sudo kill $!" >> kill.sh &
+sudo java -jar /home/ubuntu/nyzoVerifier/build/libs/nyzoVerifier-1.0.jar co.nyzo.verifier.scripts.NewVerifierVoteOverrideRequestScript  YOUR-INCYCLE-VERIFIER-PRIVATE-KEY $1 & echo "sudo kill $!" >> kill.sh &
+sudo java -jar /home/ubuntu/nyzoVerifier/build/libs/nyzoVerifier-1.0.jar co.nyzo.verifier.scripts.NewVerifierVoteOverrideRequestScript  YOUR-INCYCLE-VERIFIER-PRIVATE-KEY $1 & echo "sudo kill $!" >> kill.sh &
+sudo java -jar /home/ubuntu/nyzoVerifier/build/libs/nyzoVerifier-1.0.jar co.nyzo.verifier.scripts.NewVerifierVoteOverrideRequestScript  YOUR-INCYCLE-VERIFIER-PRIVATE-KEY $1 & echo "sudo kill $!" >> kill.sh &
+sudo java -jar /home/ubuntu/nyzoVerifier/build/libs/nyzoVerifier-1.0.jar co.nyzo.verifier.scripts.NewVerifierVoteOverrideRequestScript  YOUR-INCYCLE-VERIFIER-PRIVATE-KEY $1 & echo "sudo kill $!" >> kill.sh &
+sudo java -jar /home/ubuntu/nyzoVerifier/build/libs/nyzoVerifier-1.0.jar co.nyzo.verifier.scripts.NewVerifierVoteOverrideRequestScript  YOUR-INCYCLE-VERIFIER-PRIVATE-KEY $1 & echo "sudo kill $!" >> kill.sh &
+sudo java -jar /home/ubuntu/nyzoVerifier/build/libs/nyzoVerifier-1.0.jar co.nyzo.verifier.scripts.NewVerifierVoteOverrideRequestScript  YOUR-INCYCLE-VERIFIER-PRIVATE-KEY $1 & echo "sudo kill $!" >> kill.sh &
+sudo java -jar /home/ubuntu/nyzoVerifier/build/libs/nyzoVerifier-1.0.jar co.nyzo.verifier.scripts.NewVerifierVoteOverrideRequestScript  YOUR-INCYCLE-VERIFIER-PRIVATE-KEY $1 & echo "sudo kill $!" >> kill.sh &
+sudo java -jar /home/ubuntu/nyzoVerifier/build/libs/nyzoVerifier-1.0.jar co.nyzo.verifier.scripts.NewVerifierVoteOverrideRequestScript  YOUR-INCYCLE-VERIFIER-PRIVATE-KEY $1 & echo "sudo kill $!" >> kill.sh &
+sudo java -jar /home/ubuntu/nyzoVerifier/build/libs/nyzoVerifier-1.0.jar co.nyzo.verifier.scripts.NewVerifierVoteOverrideRequestScript  YOUR-INCYCLE-VERIFIER-PRIVATE-KEY $1 & echo "sudo kill $!" >> kill.sh &
+sudo java -jar /home/ubuntu/nyzoVerifier/build/libs/nyzoVerifier-1.0.jar co.nyzo.verifier.scripts.NewVerifierVoteOverrideRequestScript  YOUR-INCYCLE-VERIFIER-PRIVATE-KEY $1 & echo "sudo kill $!" >> kill.sh &
 chmod +x kill.sh
 wait
 
